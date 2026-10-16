@@ -55,4 +55,5 @@
   1. `python3 tools/fetch.py relation 18619603 raw`
   2. `python3 tools/build_campus.py raw raw/campus_raw.json`
   3. `python3 tools/add_trees.py raw/campus_raw.json data/campus.json`
+  4. `python3 tools/fix_terrain.py data/campus.json` — 땅 높이 정리: 높이 자료의 빈칸(음수 값)을 메우고, 높은 건물이 언덕처럼 찍힌 자국을 지우고, 호수와 연못을 평평한 수면으로 맞춥니다.
 - `main`에 push하면 GitHub Actions가 `site/` 폴더를 GitHub Pages에 올립니다.
