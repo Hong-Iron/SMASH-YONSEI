@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "공학원 (102)": {
+      "style": "stone",
+      "wall": "#c8bfaf",
+      "glass": "#2f5f80",
+      "frame": "#a89c88"
+    },
+    "법인본부": {
+      "style": "stone",
+      "wall": "#bdbbb5",
+      "glass": "#2c3135",
+      "frame": "#8a5a3a"
+    },
+    "과학관 (322)": {
+      "style": "stone",
+      "wall": "#e4e4e0",
+      "glass": "#3e4b55",
+      "frame": "#6e6660"
+    },
+    "연세삼성학술정보관 (302)": {
+      "style": "glass",
+      "wall": "#d6d8d8",
+      "glass": "#3b6e80",
+      "frame": "#b9bcbe"
+    },
+    "백양관 (310)": {
+      "style": "stone",
+      "wall": "#e2e0da",
+      "glass": "#3f4a50",
+      "frame": "#bfbcb4"
+    },
+    "학생회관 (207)": {
+      "style": "stone",
+      "wall": "#dcd8d1",
+      "glass": "#3c4c56",
+      "frame": "#a8a49c"
+    },
+    "백주년기념관 (201)": {
+      "style": "tan",
+      "wall": "#b8ad9e",
+      "glass": "#3e5560",
+      "frame": "#9c9285"
+    },
+    "중앙도서관 (301)": {
+      "style": "stone",
+      "wall": "#d4d0c6",
+      "glass": "#3c5560",
+      "frame": "#b0aca2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
